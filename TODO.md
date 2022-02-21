@@ -2,7 +2,6 @@
 
 Vercel-Express TODO List
 
-<em>[TODO.md spec & Kanban Board](https://marketplace.visualstudio.com/items?itemName=coddx.coddx-alpha)</em>
 
 ### Todo
 
@@ -13,6 +12,6 @@ Vercel-Express TODO List
 
 ### Done ✓
 
-- [x] Use express with typescript. 2021-02-23
-- [x] Added instructions to create app & ui projects. 2021-02-23
-- [x] Upgrade dependencies. 2021-02-22
+- [x] Use express with typescript. 
+- [x] Added instructions to create app & ui projects. 
+- [x] Upgrade dependencies.
