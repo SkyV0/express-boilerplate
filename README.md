@@ -2,7 +2,6 @@
 
 Vercel Express and UI fullstack webapp example.
 
-Live Demo - https://vercel-express-ngduc.vercel.app
 
 ### Set up & Deploy with Vercel
 
